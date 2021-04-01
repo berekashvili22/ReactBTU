@@ -1,1 +1,1 @@
-# ReactBTU
+repository for btu react course
